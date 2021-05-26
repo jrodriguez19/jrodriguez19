@@ -1,4 +1,4 @@
-- 👋 Hi, I’m George (Jorge).
+- 👋 Hi, I’m Jorge (George).
 - 👀 I’m interested in Software Development and Financial Markets.
 - 🌱 I’m currently learning more about React.
 - 💞️ I’m looking to collaborate on innovative projects
