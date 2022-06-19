@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jorge (George), a Software Engineer.
-- 👨‍🎓 I'm learning more about React and Frontend technologies, but most of my experience has been as a Backend Developer.
+- 👨‍🎓 I'm learning more about Frontend technologies, but most of my experience has been as a Backend Developer.
 - 🤝 I'm looking to collaborate and work on innovative projects in Web Development, Mobile Applications, IoT and Robotics.
 - 📫 Contact: jrodrigueznocua@gmail.com
 
