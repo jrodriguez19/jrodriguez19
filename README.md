@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Jorge (George), a Software Engineer.
-- 👨‍💻 My strongest skills are as a Backend developer specialising in Python and related technologies like Django. 
+- 💻 My strongest skills are as a Backend developer specialising in Python and related technologies like Django. 
 - 👨‍🎓 I'm also improving my frontend skills in React to be a full-stack developer.
 - 🤝 I'm looking to collaborate and work on innovative projects in Web Development, Mobile Applications, IoT, IA and Robotics.
 - 📫 Contact: jrodrigueznocua@gmail.com
-- 🪪 Linkedin: https://www.linkedin.com/in/jorgerodrigueznocua/
+- 🔗 Linkedin: https://www.linkedin.com/in/jorgerodrigueznocua/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fjrodriguez19&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
