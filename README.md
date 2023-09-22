@@ -1,5 +1,5 @@
 - 👋 Hi, I'm George (Jorge), a Software Engineer.
-- 💻 My strongest skills are as a Backend developer specialising in Python and related technologies like Django. 
+- 💻 My strongest skills are as a Backend developer specialising in Python and frameworks like Django and Flask. 
 - 👨‍🎓 I'm also improving my frontend skills in React to be a full-stack developer.
 - 🤝 I'm looking to collaborate and work on innovative projects in Web Development, Mobile Applications, IoT, IA and Robotics.
 - 📫 Contact: jrodrigueznocua@gmail.com
