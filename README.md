@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jorge (George), a Software Engineer.
+- 👋 Hi, I'm George (Jorge), a Software Engineer.
 - 💻 My strongest skills are as a Backend developer specialising in Python and related technologies like Django. 
 - 👨‍🎓 I'm also improving my frontend skills in React to be a full-stack developer.
 - 🤝 I'm looking to collaborate and work on innovative projects in Web Development, Mobile Applications, IoT, IA and Robotics.
