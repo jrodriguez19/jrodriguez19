@@ -1,4 +1,4 @@
-- 👋 Hi, I'm George (Jorge), a Software Engineer.
+- 👋 Hi, I'm George, a Software Engineer.
 - 💻 I'm a Backend developer specialising in Python and frameworks like Django and Flask. 
 - 👨‍🎓 My goal is to improve my frontend skills with Javascript and React to keep growing as a full-stack developer.
 - 🤝 I want to collaborate and work on innovative projects in Web Development, Mobile Applications, IoT, AI and Robotics.
